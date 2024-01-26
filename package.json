@@ -7,6 +7,12 @@
     "type": "git",
     "url": "https://github.com/fernandobarrosd/eslint-config-typescript.git"
   },
+  "keywords": [
+    "typescript",
+    "eslint",
+    "node",
+    "config"
+  ],
   "homepage": "https://github.com/fernandobarrosd/eslint-config.typescript",
   "author": {
     "name": "Fernando de Barros",
