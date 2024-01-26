@@ -1,0 +1,25 @@
+{
+  "name": "@fernandobarrosd/eslint-config-typescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandobarrosd/eslint-config-typescript.git"
+  },
+  "homepage": "https://github.com/fernandobarrosd/eslint-config.typescript",
+  "author": {
+    "name": "Fernando de Barros",
+    "email": "fdebarros0910-2004@hotmail.com",
+    "url": "https://github.com/fernandobarrosd"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "@typescript-eslint/parser": "^6.19.1",
+    "eslint": "^8.56.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  }
+}
